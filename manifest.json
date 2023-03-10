@@ -1,0 +1,14 @@
+{
+  "author": "Anurag Garg",
+  "name": "Coding Calendar",
+  "description": "An extension that keeps users updated about Competitive Programming contests.",
+  "version": "0.0.1",
+  "homepage_url": "https://github.com/anuraggarg3",
+  "manifest_version": 3,
+
+  "action": {
+    "default_icon": "logo.png",
+    "default_title": "Coding Calendar",
+    "default_popup": "index.html"
+  }
+}
